@@ -108,3 +108,4 @@ lab = tk.Label(windo, text="Draw Digit", width=18, height=1, fg="white", bg="mid
 lab.place(x=554, y=60)
 
 windo.mainloop()
+

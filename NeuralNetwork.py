@@ -181,3 +181,4 @@ print('Test accuracy:', score[1])
 ######## Zapisywanie modelu sieci ###########
 model.save('mnist.h5')
 print("Saving the model as mnist.h5")
+
